@@ -15,13 +15,13 @@
             android:name=".andv2"
             android:exported="false" />
         <activity
-            android:name=".dungbt"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".andv"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".dungbt"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
