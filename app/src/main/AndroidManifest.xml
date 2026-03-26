@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Test26">
         <activity
+            android:name=".dungbt"
+            android:exported="false" />
+        <activity
             android:name=".andv"
             android:exported="false" />
         <activity
